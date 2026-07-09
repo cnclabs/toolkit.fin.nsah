@@ -14,7 +14,7 @@ The package includes:
 Install from GitHub:
 
 ```bash
-pip install git+https://github.com/cnclabs/toolkit.fin.nsah
+pip install git+https://github.com/cnclabs/toolkit.fin.nash
 ```
 
 For local development from this repository:
